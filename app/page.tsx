@@ -16,12 +16,25 @@ export default function Home() {
         </p>
 
         <div className="space-y-2">
-          <p>Email: your-email@gmail.com</p>
-          <p>GitHub: add your GitHub link</p>
-          <p>LinkedIn: add your LinkedIn link</p>
+          <p>Email: sreenayanika@gmail.com</p>
+
+<p>
+  GitHub: 
+  <a href="https://github.com/sreenayanika" target="_blank">
+    https://github.com/sreenayanika
+  </a>
+</p>
+
+<p>
+  LinkedIn: 
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    https://linkedin.com/in/YOUR-LINKEDIN
+  </a>
+</p>
         </div>
 
       </section>
+
     </main>
   );
 }
